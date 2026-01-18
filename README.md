@@ -1,34 +1,3 @@
-ProfileMe.dev
-
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2026 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-
-Previous
-buymeacoffee
-Buy Me a Coffee:
-yourname
-kofi
-Ko-fi:
-yourname
-
-Previous
-Reorder Sections
-Preview
-Markdown
-Copy
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Zarrah Exekiel Valles!
 ===============================================================================================================================================
 
@@ -59,4 +28,3 @@ I am a second-year BSIT student at Pamantasan ng Lungsod ng Pasig, currently bui
 
 <a href="https://github.com/Zarrah-Valles" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarrah-Valles&langs_count=10&title_color=ec4899&text_color=facc15&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes
