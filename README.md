@@ -45,7 +45,7 @@ I am a second-year BSIT student at Pamantasan ng Lungsod ng Pasig, currently bui
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zazazzz-exe&theme=radical&cache_seconds=86400" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zazazzz-exe&theme=radical&cache_seconds=5000" />
 </p>
 
 <p align="center">
