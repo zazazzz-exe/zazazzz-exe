@@ -38,20 +38,4 @@ I am a second-year BSIT student at Pamantasan ng Lungsod ng Pasig, currently bui
 
 ---
 
-# 📊 My GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zazazzz-exe&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zazazzz-exe&theme=radical&cache_seconds=60" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zazazzz-exe&layout=compact&theme=radical&cache_seconds=86400" />
-</p>
-
----
-
 ✨ *Always learning, always building.*
