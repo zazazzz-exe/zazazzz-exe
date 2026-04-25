@@ -1,8 +1,74 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&height=140&lines=ZARRAH" 
-    alt="ZARRAH banner"
-  />
+  <img src="data:image/svg+xml;utf8,
+  <svg width='900' height='220' viewBox='0 0 900 220' xmlns='http://www.w3.org/2000/svg'>
+    <style>
+      .block { fill:#ff69b4; }
+      .shade { fill:#d94f9f; }
+      .text { font-family: monospace; font-size:80px; font-weight:bold; }
+    </style>
+
+    <!-- Background -->
+    <rect width='100%' height='100%' fill='#0d1117'/>
+
+    <!-- Z -->
+    <g transform='translate(60,60)'>
+      <rect class='block' x='0' y='0' width='120' height='20'/>
+      <rect class='block' x='100' y='20' width='20' height='20'/>
+      <rect class='block' x='80' y='40' width='20' height='20'/>
+      <rect class='block' x='60' y='60' width='20' height='20'/>
+      <rect class='block' x='40' y='80' width='20' height='20'/>
+      <rect class='block' x='20' y='100' width='20' height='20'/>
+      <rect class='block' x='0' y='120' width='120' height='20'/>
+    </g>
+
+    <!-- A -->
+    <g transform='translate(220,60)'>
+      <rect class='block' x='40' y='0' width='40' height='20'/>
+      <rect class='block' x='20' y='20' width='20' height='20'/>
+      <rect class='block' x='80' y='20' width='20' height='20'/>
+      <rect class='block' x='0' y='40' width='20' height='80'/>
+      <rect class='block' x='100' y='40' width='20' height='80'/>
+      <rect class='block' x='20' y='80' width='80' height='20'/>
+    </g>
+
+    <!-- R -->
+    <g transform='translate(380,60)'>
+      <rect class='block' x='0' y='0' width='20' height='140'/>
+      <rect class='block' x='20' y='0' width='60' height='20'/>
+      <rect class='block' x='80' y='20' width='20' height='40'/>
+      <rect class='block' x='20' y='60' width='60' height='20'/>
+      <rect class='block' x='60' y='80' width='40' height='20'/>
+      <rect class='block' x='80' y='100' width='20' height='40'/>
+    </g>
+
+    <!-- R -->
+    <g transform='translate(520,60)'>
+      <rect class='block' x='0' y='0' width='20' height='140'/>
+      <rect class='block' x='20' y='0' width='60' height='20'/>
+      <rect class='block' x='80' y='20' width='20' height='40'/>
+      <rect class='block' x='20' y='60' width='60' height='20'/>
+      <rect class='block' x='60' y='80' width='40' height='20'/>
+      <rect class='block' x='80' y='100' width='20' height='40'/>
+    </g>
+
+    <!-- A -->
+    <g transform='translate(660,60)'>
+      <rect class='block' x='40' y='0' width='40' height='20'/>
+      <rect class='block' x='20' y='20' width='20' height='20'/>
+      <rect class='block' x='80' y='20' width='20' height='20'/>
+      <rect class='block' x='0' y='40' width='20' height='80'/>
+      <rect class='block' x='100' y='40' width='20' height='80'/>
+      <rect class='block' x='20' y='80' width='80' height='20'/>
+    </g>
+
+    <!-- H -->
+    <g transform='translate(800,60)'>
+      <rect class='block' x='0' y='0' width='20' height='140'/>
+      <rect class='block' x='80' y='0' width='20' height='140'/>
+      <rect class='block' x='20' y='60' width='60' height='20'/>
+    </g>
+  </svg>" 
+  alt="ZARRAH banner"/>
 </p>
 
 <!-- ✨ Subtitle -->
