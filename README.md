@@ -6,7 +6,8 @@
   
 </p>
 
-<h4 align="center">Hi there! 👋 I'm Zarrah Exekiel Valles<br><br>🚀 Aspiring Full-Stack Developer | Future Software Engineer<br><br>I’m a second-year BSIT student at Pamantasan ng Lungsod ng Pasig, currently building a strong foundation in software development and modern web technologies. I’m passionate about creating meaningful projects, exploring new tools, and continuously improving my skills. My goal is to build efficient, scalable, and user-focused applications.</h4>
+<h4 align="center">Hi there! 👋 I'm Zarrah Exekiel Valles<br><br>
+   I’m a second-year BSIT student at Pamantasan ng Lungsod ng Pasig, currently building a strong foundation in software development and modern web technologies. I’m passionate about creating meaningful projects, exploring new tools, and continuously improving my skills. My goal is to build efficient, scalable, and user-focused applications.</h4>
 
 ###
 
