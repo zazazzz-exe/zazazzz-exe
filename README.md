@@ -57,8 +57,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zazazzz-exe&theme=radical&show_icons=true&hide_border=true&count_private=true"  />
-  <img src="https://streak-stats.demolab.com?user=zazazzz-exe&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zazazzz-exe&theme=radical&show_icons=true&hide_border=true&count_private=true"   height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=zazazzz-exe&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zazazzz-exe&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
