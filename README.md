@@ -62,6 +62,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zazazzz-exe&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
+![zazazzz-exe's Stats](https://github-readme-stats.vercel.app/api?username=zazazzz-exe&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
 ###
 
 <picture>
