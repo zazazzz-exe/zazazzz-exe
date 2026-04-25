@@ -3,11 +3,7 @@
     src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&height=140&lines=ZARRAH" 
     alt="ZARRAH banner"
   />
-</p>
-
-<!-- ✨ Subtitle -->
-<p align="center">
-  <img 
+   <img 
     src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=1000&height=80&lines=FULLSTACK+DEVELOPER;BUILDING+COOL+PROJECTS" 
     alt="subtitle"
   />
